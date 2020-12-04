@@ -3,21 +3,20 @@ Repositório contendo projetos de machine learning concluídos por mim para fins
 Apresentados na forma de Notebooks iPython.
 
 ## Regressão
-* [Apartamentos SP](https://github.com/JoseEstevan/Machine-Learning/tree/main/Apartamentos%20SP)                                                                                   
-Um modelo de Regressão Linear para prever o valor de uma determinada casa no mercado imobiliário de São Paulo usando várias ferramentas de análise estatística.
-
+* [Apartamentos SP](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/b879169b4fe14bb2dc25d4c5efe418608feb3e6e/Regress%C3%A3o/Apartamentos%20SP/Model.ipynb)                                                                                 
+Um modelo de Regressão para prever o valor de uma determinada casa no mercado imobiliário de São Paulo.
 
 ## Classificação
-* [Câncer Cervical]():                                                                                                                                                             
-Modelo de classificação com Random Forest, em que o objetivo é classificar se o indivíduo possui câncer ou não.
+* [Câncer Cervical](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/main/Classifica%C3%A7%C3%A3o/C%C3%A2ncer%20Cervical/Modelo.ipynb)                                                                                                                                                            
+Modelo de classificação em que o objetivo é classificar se o indivíduo possui câncer ou não.
  
-## Sistemas de Recomendação
+## Sistemas
+* [SRBP](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/main/Sistemas/SRBP/SRBP.ipynb):                                                                                                                                                                         
+Sistema de Recomendação baseado em popularidade.
 
 
 
 
-<br/><br/>
-## [OverView](https://github.com/JoseEstevan/OverView)
 <br/><br/>
 
 <h3 align="center">Redes Sociais</h3>
