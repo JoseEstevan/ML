@@ -15,8 +15,6 @@ Modelo de classificação em que o objetivo é classificar se o indivíduo possu
 Sistema de Recomendação baseado em popularidade.
 
 
-
-
 <br/><br/>
 
 <h3 align="center">Redes Sociais</h3>
