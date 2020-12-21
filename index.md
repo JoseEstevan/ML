@@ -10,7 +10,6 @@ Modelo de classificação em que o objetivo é classificar se o indivíduo possu
 * [SRBP](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/main/Sistemas/SRBP/SRBP.ipynb):                                                                                                                                                                         
 Sistema de Recomendação baseado em popularidade.
 
-
 <br/><br/>
 
 <h3 align="center">Redes Sociais</h3>
