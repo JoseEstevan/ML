@@ -1,7 +1,3 @@
-# Machine Learning
-Repositório contendo projetos de machine learning concluídos por mim para fins acadêmicos, de autoaprendizagem e hobby. 
-Apresentados na forma de Notebooks iPython.
-
 ## Regressão
 * [Apartamentos SP](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/main/Regress%C3%A3o/Apartamentos%20SP/Modelo.ipynb)                                                                                 
 Um modelo de Regressão para prever o valor de uma determinada casa no mercado imobiliário de São Paulo.
