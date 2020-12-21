@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Machine Learning
+Repositório contendo projetos de machine learning concluídos por mim para fins acadêmicos, de autoaprendizagem e hobby. 
+Apresentados na forma de Notebooks iPython.
 
-You can use the [editor on GitHub](https://github.com/JoseEstevan/ML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Regressão
+* [Apartamentos SP](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/main/Regress%C3%A3o/Apartamentos%20SP/Modelo.ipynb)                                                                                 
+Um modelo de Regressão para prever o valor de uma determinada casa no mercado imobiliário de São Paulo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Classificação
+* [Câncer Cervical](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/main/Classifica%C3%A7%C3%A3o/C%C3%A2ncer%20Cervical/Modelo.ipynb)                                                                                                                                                            
+Modelo de classificação em que o objetivo é classificar se o indivíduo possui câncer ou não.
+ 
+## Sistemas
+* [SRBP](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/main/Sistemas/SRBP/SRBP.ipynb):                                                                                                                                                                         
+Sistema de Recomendação baseado em popularidade.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<br/><br/>
 
-- Bulleted
-- List
+<h3 align="center">Redes Sociais</h3>
 
-1. Numbered
-2. List
+<p align="center">
+<a href="https://www.linkedin.com/in/joseestevan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joseestevan" height="30" width="30" /></a>
+<a href="https://medium.com/@joseestevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joseestevan" height="30" width="30" /></a>
+<a href="https://github.com/JoseEstevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="joseestevan" height="30" width="30" /></a>
+</p>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoseEstevan/ML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fique à vontade para entrar em contato através do meu email jose.estevan1524@gmail.com.
