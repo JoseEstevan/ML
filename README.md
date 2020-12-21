@@ -24,6 +24,7 @@ Sistema de Recomendação baseado em popularidade.
 <p align="center">
 <a href="https://www.linkedin.com/in/joseestevan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joseestevan" height="30" width="30" /></a>
 <a href="https://medium.com/@joseestevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joseestevan" height="30" width="30" /></a>
+<a href="https://github.com/JoseEstevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="joseestevan" height="30" width="30" /></a>
 </p>
 
 Fique à vontade para entrar em contato através do meu email jose.estevan1524@gmail.com.
