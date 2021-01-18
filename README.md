@@ -3,8 +3,7 @@ Repositório contendo projetos de machine learning concluídos por mim para fins
 Apresentados na forma de Notebooks iPython.
 
 ## Cases
-* [Data Analyst Case Company X](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Data%20Analyst%20Case/Notebook.ipynb)
-
+* [Data Analyst Case Company X](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Data%20Analyst%20Case/Notebook.ipynb)                                        
 Case teste de uma empresa brasileira para a vaga de analista de dados.
 
 ## Regressão
