@@ -5,6 +5,8 @@ Apresentados na forma de Notebooks iPython.
 ## Cases
 * [Data Analyst Case Company X](https://nbviewer.jupyter.org/github/JoseEstevan/Notebooks/blob/main/Data%20Analyst%20Case/Notebook.ipynb)
 
+Case teste de uma empresa brasileira para a vaga de analista de dados.
+
 ## Regressão
 * [Apartamentos SP](https://nbviewer.jupyter.org/github/JoseEstevan/ML/blob/main/Regress%C3%A3o/Apartamentos%20SP/Modelo.ipynb)                                                                                 
 Um modelo de Regressão para prever o valor de uma determinada casa no mercado imobiliário de São Paulo.
